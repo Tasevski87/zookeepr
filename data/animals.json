@@ -135,6 +135,13 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "larry ",
+      "species": "lemmur",
+      "diet": "omnivore",
+      "personalityTraits": [],
+      "id": "14"
     }
   ]
 }
