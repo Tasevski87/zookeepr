@@ -1,5 +1,5 @@
 {
-  "animals": [
+  "zookeepers": [
     {
       "id": "0",
       "name": "Kim",
@@ -61,24 +61,16 @@
       "id": "9"
     },
     {
-      "name": "Darlene",
-      "id": "jhgdja3ng2"
+      "name": "Tonycia",
+      "age": 27,
+      "favoriteAnimal": "cat",
+      "id": "10"
     },
     {
-      "name": "larry ",
-      "species": "lemmur",
-      "diet": "omnivore",
-      "personalityTraits": [],
+      "name": "wdef",
+      "age": 12,
+      "favoriteAnimal": "dsf",
       "id": "11"
-    },
-    {
-      "name": "larry ",
-      "species": "lemmur",
-      "diet": "herbivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "12"
     }
   ]
 }
